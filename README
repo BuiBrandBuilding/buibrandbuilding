@@ -12,19 +12,6 @@ This is the official website for **Bui Brand Building**, a boutique brand and we
 - Launch in 2–4 weeks
 - Contact: buibrandbuilding@gmail.com
 
-## Hosting
-
-Recommended: Deploy via [GitHub Pages](https://pages.github.com/) or [Netlify](https://netlify.com) for free hosting.
-
-### GitHub Pages (quickest)
-1. Go to repo **Settings → Pages**
-2. Set source to `main` branch, `/ (root)` folder
-3. Your site will be live at `https://buibrandbuilding.github.io/buibrandbuilding`
-
-### Netlify (recommended — form submissions work natively)
-1. Connect this repo on [netlify.com](https://netlify.com)
-2. Build settings: none needed (static HTML)
-3. Your Formspree form will work instantly
 
 ## Form Setup
 
