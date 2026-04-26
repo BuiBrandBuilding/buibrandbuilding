@@ -1,0 +1,46 @@
+# Bui Brand Building
+
+Premium brand identity and website design studio — helping growing businesses look unforgettable and convert more customers.
+
+## About
+
+This is the official website for **Bui Brand Building**, a boutique brand and web design studio founded by David Bui.
+
+- **Brand Identity** packages from $400
+- **Custom Website** packages from $800  
+- **Monthly Care Plans** from $75/mo
+- Launch in 2–4 weeks
+- Contact: buibrandbuilding@gmail.com
+
+## Hosting
+
+Recommended: Deploy via [GitHub Pages](https://pages.github.com/) or [Netlify](https://netlify.com) for free hosting.
+
+### GitHub Pages (quickest)
+1. Go to repo **Settings → Pages**
+2. Set source to `main` branch, `/ (root)` folder
+3. Your site will be live at `https://buibrandbuilding.github.io/buibrandbuilding`
+
+### Netlify (recommended — form submissions work natively)
+1. Connect this repo on [netlify.com](https://netlify.com)
+2. Build settings: none needed (static HTML)
+3. Your Formspree form will work instantly
+
+## Form Setup
+
+The contact form uses [Formspree](https://formspree.io). Your endpoint `https://formspree.io/f/mpqkknqn` is already wired in. Confirm your email at formspree.io to receive submissions.
+
+## Updating Availability
+
+To update the "project slots open" count, search the HTML for:
+```
+<!-- EDIT THIS VALUE when your availability changes -->
+```
+And change `2 project slots open` to whatever is current.
+
+## Tech Stack
+
+- Pure HTML/CSS/JavaScript — no frameworks, no build step
+- Google Fonts: Fraunces + Inter + JetBrains Mono
+- Form handling: Formspree (mpqkknqn)
+- Zero external dependencies at runtime
